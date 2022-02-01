@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TihomirChobanov
 - 👀 I’m interested in Kotlin and Java
 - 🌱 I’m currently learning HyperSkill Kotlin and Java Course
-- 💞️ I’m looking to collaborate on projects. My goal is to create applications with **Plamen Tenev** /olqmin/.
+- 💞️ I’m looking to collaborate on projects. My goal is to create applications with **Plamen Tenev** /olqmin/
 - 📫 How to reach me here: tihomir.chobanov@gmail.com
 
 <!---
