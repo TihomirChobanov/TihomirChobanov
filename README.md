@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TihomirChobanov
-- 👀 I’m interested in Kotlin
-- 🌱 I’m currently learning HyperSkill Kotlin Course
+- 👀 I’m interested in Kotlin and Java
+- 🌱 I’m currently learning HyperSkill Kotlin and Java Course
 - 💞️ I’m looking to collaborate on Kotlin projects
-- 📫 How to reach me https://www.facebook.com/Tihomir.Chobanov/
+- 📫 How to reach me here: tihomir.chobanov@gmail.com
 
 <!---
 TihomirChobanov/TihomirChobanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
